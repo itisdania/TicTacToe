@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<stdin.h>
                                                          /* PLAYER VS PLAYER */.                    <VERSION_1>
 
 
